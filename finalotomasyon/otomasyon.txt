@@ -1,0 +1,6 @@
+1 --> Bitki adı -->Lale Tür-->Dışarı Şu kadar günde sulanmalı-->3 Güneş toleransı-->orta
+2 --> Bitki adı -->Hanımçantası Tür-->ev Şu kadar günde sulanmalı-->2 Güneş toleransı-->düşük 
+3 --> Bitki adı -->Kavak Tür-->Dışarı Şu kadar günde sulanmalı-->4 Güneş toleransı-->orta 
+4 --> Bitki adı -->Sarmaşık Tür-->Ev Şu kadar günde sulanmalı-->2 Güneş toleransı-->Yüksek 
+5 --> Bitki adı -->Kiraz Tür-->Dışarı Şu kadar günde sulanmalı-->3 Güneş toleransı-->YÜKSEK 
+6 --> Bitki adı -->kaktüs Tür-->ev Şu kadar günde sulanmalı-->10 Güneş toleransı-->düşük 
