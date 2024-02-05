@@ -1,4 +1,5 @@
-ÇİÇEKÇİ OTOMASYONU 
+ÇİÇEKÇİ OTOMASYONU
+
 Menüde 7 adet ana fonksiyon bulunmaktadır. Bunlar; 
 1-Bitki Ekle  
 Yeni bitki girişi burada yapılır. 
